@@ -1,5 +1,5 @@
 {
-  "name": "redux-form-actions",
+  "name": "redux-form-actions-draftjs",
   "version": "1.1.0",
   "description": "Manage asynchrous redux form submit with actions.",
   "main": "lib/index.js",
@@ -58,6 +58,6 @@
     "react": "^15.0.0",
     "react-redux": "^4.3.0 || ^5.0.0-beta",
     "redux": "^3.0.0",
-    "redux-form": "^6.0.0"
+    "redux-form-draftjs": "^6.0.0"
   }
 }
