@@ -1,4 +1,4 @@
-import * as ReduxForm from 'redux-form/immutable';
+import * as ReduxForm from 'redux-form-draftjs/immutable';
 import wrapper from './wrapper';
 import { reduxFormMiddleware } from './middlewares';
 

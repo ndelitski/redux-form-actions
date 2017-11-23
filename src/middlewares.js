@@ -1,4 +1,4 @@
-import { SubmissionError } from 'redux-form';
+import { SubmissionError } from 'redux-form-draftjs';
 
 import submits from './submits';
 
